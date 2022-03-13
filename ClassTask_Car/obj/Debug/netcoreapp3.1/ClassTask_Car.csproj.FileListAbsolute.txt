@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HOMETASKS\ClassTask_Car\ClassTask_Car\obj\Debug\netcoreapp3.1\ClassTask_Car.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HOMETASKS\ClassTask_Car\ClassTask_Car\obj\Debug\netcoreapp3.1\ClassTask_Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HOMETASKS\ClassTask_Car\ClassTask_Car\obj\Debug\netcoreapp3.1\ClassTask_Car.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HOMETASKS\ClassTask_Car\ClassTask_Car\obj\Debug\netcoreapp3.1\ClassTask_Car.AssemblyInfo.cs
+C:\Users\User\Desktop\HOMETASKS\ClassTask_Car\ClassTask_Car\obj\Debug\netcoreapp3.1\ClassTask_Car.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HOMETASKS\ClassTask_Car\ClassTask_Car\bin\Debug\netcoreapp3.1\ClassTask_Car.exe
+C:\Users\User\Desktop\HOMETASKS\ClassTask_Car\ClassTask_Car\bin\Debug\netcoreapp3.1\ClassTask_Car.deps.json
+C:\Users\User\Desktop\HOMETASKS\ClassTask_Car\ClassTask_Car\bin\Debug\netcoreapp3.1\ClassTask_Car.runtimeconfig.json
+C:\Users\User\Desktop\HOMETASKS\ClassTask_Car\ClassTask_Car\bin\Debug\netcoreapp3.1\ClassTask_Car.runtimeconfig.dev.json
+C:\Users\User\Desktop\HOMETASKS\ClassTask_Car\ClassTask_Car\bin\Debug\netcoreapp3.1\ClassTask_Car.dll
+C:\Users\User\Desktop\HOMETASKS\ClassTask_Car\ClassTask_Car\bin\Debug\netcoreapp3.1\ClassTask_Car.pdb
+C:\Users\User\Desktop\HOMETASKS\ClassTask_Car\ClassTask_Car\obj\Debug\netcoreapp3.1\ClassTask_Car.dll
+C:\Users\User\Desktop\HOMETASKS\ClassTask_Car\ClassTask_Car\obj\Debug\netcoreapp3.1\ClassTask_Car.pdb
+C:\Users\User\Desktop\HOMETASKS\ClassTask_Car\ClassTask_Car\obj\Debug\netcoreapp3.1\ClassTask_Car.genruntimeconfig.cache
