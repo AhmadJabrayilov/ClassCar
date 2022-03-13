@@ -29,7 +29,7 @@ namespace ClassTask_Car.Models
 
         public void ShowInfo()
         {
-            Console.WriteLine($"Color: {color}\nYear: {year}\nBrand: {brand}\nModel: {model}\nFuel Capacity: {fuelCapacity} L\nFuel for 1 Km: {fuelFor1km}L\nCurrent fuel: {currentFuel}");
+            Console.WriteLine($"Color: {color}\nYear: {year}\nBrand: {brand.ToUpper()}\nModel: {model.ToUpper()}\nFuel Capacity: {fuelCapacity} L\nFuel for 1 Km: {fuelFor1km}L\nCurrent fuel: {currentFuel}");
         }
 
         public double Drive(int distance)
